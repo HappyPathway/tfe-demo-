@@ -7,3 +7,9 @@
 
 # .tfvars files
 *.tfvars
+
+.main.tf
+workspace_init.tf
+workspace_init.sh
+workspace_cleanup.sh
+.tfe
